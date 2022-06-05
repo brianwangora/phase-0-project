@@ -1,3 +1,25 @@
 body {
     background: lightgray;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: center;
   }
+h1 {
+    font-size: xx-large;
+    color: rgb(34, 34, 223);
+}  
+img {
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+div#formula1 {
+    background: lightcyan;
+} 
+div#rappers {
+    background: black;
+}
+div#ending {
+    background: grey;
+} 
